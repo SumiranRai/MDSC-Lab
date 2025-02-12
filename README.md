@@ -1,1 +1,9 @@
-This repository contains all the lab assignments I completed for my MSc Data Science course.
+This repository contains lab assignments from my MSc Data Science coursework. It will be updated as the course progresses.
+
+📁 Current Subjects & Tools Used:
+MDSC-101 – Applied Linear Algebra (Python)
+MDSC-102 – Optimization Techniques (Python, Excel)
+MDSC-106 – Data Visualization (Pandas, Seaborn, Matplotlib)
+MDSC-201 – Statistical Methods Using R (R)
+MDSC-203 – Machine Learning (Python)
+More subjects and assignments will be added over time. 🚀
