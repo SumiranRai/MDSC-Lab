@@ -4,7 +4,7 @@ This repository contains lab assignments from my MSc Data Science coursework. It
 
 MDSC-101 – Applied Linear Algebra (Python)
 
-MDSC-102 – Optimization Techniques (Python, Excel)
+MDSC-102 – Optimization Techniques (Python)
 
 MDSC-106 – Data Visualization (Pandas, Seaborn, Matplotlib)
 
