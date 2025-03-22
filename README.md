@@ -1,4 +1,4 @@
-This repository contains lab assignments from my MSc Data Science coursework. It will be updated as the course progresses.
+This repository contains lab assignments from my MSc Data Science & Computing coursework. It will be updated as the course progresses.
 
 📁 Current Subjects & Tools Used:
 
