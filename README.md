@@ -2,14 +2,14 @@ This repository contains lab assignments from my MSc Data Science & Computing co
 
 📁 Current Subjects & Tools Used:
 
-MDSC-101 – Applied Linear Algebra (Python)
+MDSC-101 – Applied Linear Algebra (Python, NumPy)
 
-MDSC-102 – Optimization Techniques (Python)
+MDSC-102 – Optimization Techniques (Python, SciPy.optimize)
 
 MDSC-106 – Data Visualization (Pandas, Seaborn, Matplotlib)
 
-MDSC-201 – Statistical Methods Using R (R)
+MDSC-201 – Statistical Methods Using R (R, ggplot, tibble, dplyr)
 
-MDSC-203 – Machine Learning (Python)
+MDSC-203 – Machine Learning (Python, Scikit-learn)
 
 More subjects and assignments will be added over time. 🚀
