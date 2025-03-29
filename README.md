@@ -12,4 +12,6 @@ MDSC-201 – Statistical Methods Using R (R, ggplot, tibble, dplyr)
 
 MDSC-203 – Machine Learning (Python, Scikit-learn)
 
+MDSC-205 - Software Lab In Data Engineering (PySpark)
+
 More subjects and assignments will be added over time. 🚀
