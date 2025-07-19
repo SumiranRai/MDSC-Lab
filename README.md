@@ -14,4 +14,6 @@ MDSC-203 – Machine Learning (Python, Scikit-learn)
 
 MDSC-205 - Software Lab In Data Engineering (PySpark)
 
+MDSC-302 - Deep Learning (Python, Pytorch)
+
 More subjects and assignments will be added over time. 🚀
